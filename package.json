@@ -1,0 +1,12 @@
+{
+  "name": "qrURL",
+  "version": "1.0.0",
+  "description": "Generate a QR code image for a given URL",
+  "main": "server.js",
+  "author": "Mick Dilley <mick@vinomofo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^1.13.4",
+    "qr-image": "^3.2.0"
+  }
+}
